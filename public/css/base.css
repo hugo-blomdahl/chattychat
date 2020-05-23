@@ -1,0 +1,36 @@
+.box {
+    height: 250px;
+    width: 250px;
+    border: solid;
+    margin: 20px;
+ }
+ 
+ .red {
+   background-color: red;
+ }
+ 
+ .green {
+   background-color: green;
+ }
+ 
+ .blue {
+   background-color: blue;
+ }
+ 
+ .black {
+   background-color: black;
+   color: yellow;
+ }
+ 
+ .yellow {
+   background-color: yellow;
+ }
+ 
+ .pink {
+   background-color: pink;
+ }
+ 
+ .cyan {
+   background-color: cyan;
+ }
+ 

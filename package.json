@@ -1,0 +1,21 @@
+{
+  "name": "chattychat",
+  "version": "0.0.1",
+  "description": "A simple app for communication",
+  "main": "server.js",
+  "scripts": {
+    "run": "./server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugo-blomdahl/chattychat.git"
+  },
+  "author": "Hugo Blomdahl",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "log": "^6.0.0",
+    "moment": "^2.26.0",
+    "mustache": "^4.0.1"
+  }
+}
